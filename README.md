@@ -1,6 +1,5 @@
-This has no gui currently. So you have to run the programm in your terminal/cmd.
+This has no GUI currently, only a JOptionPane message that automatically shows your HWID and copies it to your clipboard.
 
 How to use:
-1. Open your CMD and cd to the directory where the .jar is at.
-2. Now run the command: `java -jar GetHWID.jar`.
-3. The output is your HWID. If it is not working download and install Java 8.
+1. Double-click the jar file.
+2. Click "OK" and then your HWID will be in your clipboard.
